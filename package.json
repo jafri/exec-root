@@ -1,0 +1,34 @@
+{
+  "name": "exec-root",
+  "version": "1.0.9",
+  "description": "Run a command using sudo, prompting the user with an OS dialog if necessary",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jafri/exec-root.git"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "keywords": [
+    "sudo",
+    "os",
+    "dialog",
+    "prompt",
+    "command",
+    "exec",
+    "user access control",
+    "UAC",
+    "privileges",
+    "administrative",
+    "elevate",
+    "run as administrator"
+  ],
+  "author": "Syed Jafri",
+  "bugs": {
+    "url": "https://github.com/jafri/exec-root/issues"
+  },
+  "homepage": "https://github.com/jafri/exec-root#readme",
+  "scripts": {}
+}
